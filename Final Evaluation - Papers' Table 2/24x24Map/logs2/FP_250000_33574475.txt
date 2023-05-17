@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;If_B_then_S_else_S;B;CanHarvest;S;Empty;S;C;Train;Worker;Right;2;S;S_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;Empty;S;C;Train;Heavy;Left;7;S;For_S;S;If_B_then_S;B;CanHarvest;S;C;Idle;S;S_S;S;C;Attack;Weakest;S;S_S;S;For_S;S;S_S;S;C;Harvest;5;S;For_S;S;S_S;S;C;Idle;S;C;Build;Barracks;Left;3;S;C;Train;Light;Up;50

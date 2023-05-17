@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;5;S;C;Build;Base;EnemyDir;20;S;S_S;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;1;S;For_S;S;C;Attack;LessHealthy;S;S_S;S;C;Harvest;1;S;S_S;S;C;MoveToUnit;Enemy;MostHealthy;S;C;Attack;Strongest

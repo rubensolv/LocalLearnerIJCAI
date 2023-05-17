@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;For_S;S;C;Harvest;1;S;For_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Worker;Right;20;S;If_B_then_S_else_S;B;is_Type;Barracks;S;C;MoveToUnit;Enemy;MostHealthy;S;Empty

@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Up;7;S;S_S;S;S_S;S;C;Attack;Closest;S;C;MoveToUnit;Ally;Strongest;S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;C;Build;Barracks;EnemyDir;2;S;If_B_then_S;B;CanHarvest;S;For_S;S;C;Attack;LessHealthy

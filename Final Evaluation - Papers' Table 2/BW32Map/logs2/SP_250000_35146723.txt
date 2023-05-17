@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;S_S;S;For_S;S;C;Train;Heavy;Left;100;S;C;Build;Barracks;Up;1;S;S_S;S;C;Train;Ranged;Left;15;S;S_S;S;C;Harvest;20;S;C;Attack;Closest

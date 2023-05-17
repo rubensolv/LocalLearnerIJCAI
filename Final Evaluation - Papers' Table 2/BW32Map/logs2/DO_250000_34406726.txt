@@ -1,0 +1,1 @@
+S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;Up;20;S;S_S;S;S_S;S;For_S;S;C;Idle;S;C;Train;Worker;Left;5;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;S_S;S;C;MoveAway;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Ranged;Down;50;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;C;Harvest;25;S;C;Attack;Closest;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;C;Train;Ranged;EnemyDir;1

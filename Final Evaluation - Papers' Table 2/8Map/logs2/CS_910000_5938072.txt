@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Harvest;1;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Attack;LessHealthy;S;S_S;S;S_S;S;C;Attack;MostHealthy;S;C;Train;Worker;EnemyDir;5;S;If_B_then_S;B;HasUnitInOpponentRange;S;For_S;S;For_S;S;C;Attack;LessHealthy

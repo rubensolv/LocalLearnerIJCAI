@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Ally;LessHealthy;S;For_S;S;S_S;S;C;Harvest;1;S;S_S;S;For_S;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;3;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Worker;Left;9;S;C;Attack;MostHealthy;S;For_S;S;C;Train;Worker;EnemyDir;100

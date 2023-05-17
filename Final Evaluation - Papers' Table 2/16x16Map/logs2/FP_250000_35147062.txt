@@ -1,0 +1,1 @@
+S;S_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;2;S;For_S;S;C;Train;Light;EnemyDir;50;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Ally;MostHealthy;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;S_S;S;For_S;S;C;Build;Barracks;Up;1;S;C;Train;Worker;EnemyDir;5;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;MostHealthy;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Harvest;7;S;C;Attack;Closest

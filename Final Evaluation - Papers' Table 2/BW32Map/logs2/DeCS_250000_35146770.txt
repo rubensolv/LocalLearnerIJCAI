@@ -1,0 +1,1 @@
+S;S_S;S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Right;4;S;C;Idle;S;For_S;S;S_S;S;For_S;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;Build;Barracks;Right;1;S;C;Train;Ranged;EnemyDir;2;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;For_S;S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;4;S;C;MoveAway;S;C;Harvest;50;S;C;MoveToUnit;Enemy;MostHealthy;S;C;Train;Worker;EnemyDir;5

@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;7;S;C;Build;Barracks;Up;50;S;C;Attack;Closest;S;For_S;S;C;Idle;S;For_S;S;C;Train;Heavy;Right;25;S;S_S;S;For_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;1;S;C;Harvest;6;S;If_B_then_S_else_S;B;HasNumberOfUnits;Worker;5;S;Empty;S;C;Train;Worker;Left;50

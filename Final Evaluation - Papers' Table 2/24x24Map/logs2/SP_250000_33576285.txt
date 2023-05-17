@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;S_S;S;C;Build;Base;Up;8;S;C;Train;Heavy;Up;8;S;S_S;S;S_S;S;C;Attack;Weakest;S;For_S;S;C;Idle;S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;C;Train;Ranged;Right;25;S;C;Train;Worker;EnemyDir;4;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;Empty;S;C;Harvest;3;S;C;Build;Barracks;Right;7;S;C;MoveToUnit;Enemy;Weakest

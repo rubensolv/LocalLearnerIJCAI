@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Harvest;10;S;S_S;S;C;MoveToUnit;Enemy;Closest;S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;EnemyDir;50;S;S_S;S;For_S;S;For_S;S;C;Idle;S;C;Build;Barracks;Up;9;S;C;Train;Worker;EnemyDir;2;S;For_S;S;S_S;S;C;Attack;LessHealthy;S;For_S;S;C;Harvest;25

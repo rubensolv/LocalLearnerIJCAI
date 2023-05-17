@@ -1,0 +1,1 @@
+S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Train;Heavy;EnemyDir;20;S;C;Harvest;8;S;For_S;S;C;Train;Worker;Left;100;S;If_B_then_S;B;HaveQtdUnitsAttacking;3;S;C;MoveToUnit;Ally;Weakest;S;For_S;S;S_S;S;C;Attack;Closest;S;For_S;S;C;Build;Barracks;EnemyDir;5

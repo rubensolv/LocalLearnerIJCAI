@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;C;Train;Light;Right;4;S;S_S;S;S_S;S;S_S;S;C;Idle;S;For_S;S;S_S;S;C;Idle;S;For_S;S;S_S;S;C;Build;Barracks;Up;8;S;C;Harvest;9;S;C;MoveToUnit;Enemy;LessHealthy;S;S_S;S;C;MoveToUnit;Ally;Strongest;S;S_S;S;C;Attack;MostHealthy;S;C;Train;Light;EnemyDir;9

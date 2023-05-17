@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;If_B_then_S_else_S;B;is_Type;Base;S;C;Train;Worker;Down;5;S;C;MoveToUnit;Ally;Farthest;S;For_S;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;MoveToUnit;Ally;Strongest;S;S_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Worker;Right;15;S;For_S;S;C;Harvest;2

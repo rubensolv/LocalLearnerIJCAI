@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;C;Train;Light;Down;8;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;1;S;C;Train;Worker;Left;25;S;If_B_then_S;B;CanAttack;S;C;Build;Barracks;Up;8;S;C;MoveToUnit;Enemy;MostHealthy;S;S_S;S;S_S;S;For_S;S;C;Idle;S;C;Train;Heavy;Right;20;S;S_S;S;C;Attack;Strongest;S;For_S;S;C;Harvest;7

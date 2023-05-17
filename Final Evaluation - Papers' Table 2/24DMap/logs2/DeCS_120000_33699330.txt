@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;S_S;S;For_S;S;C;Train;Light;EnemyDir;25;S;For_S;S;C;Harvest;5;S;S_S;S;For_S;S;If_B_then_S;B;IsBuilder;S;For_S;S;C;Build;Barracks;Right;3;S;C;Train;Worker;Left;100

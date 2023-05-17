@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Harvest;4;S;C;MoveToUnit;Enemy;Strongest;S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Heavy;Down;20;S;If_B_then_S_else_S;B;CanHarvest;S;Empty;S;For_S;S;C;Build;Barracks;Up;5

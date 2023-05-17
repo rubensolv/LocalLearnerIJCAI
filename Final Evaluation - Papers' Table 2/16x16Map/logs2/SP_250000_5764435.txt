@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Build;Barracks;Up;5;S;S_S;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;15;S;C;Train;Light;EnemyDir;25;S;C;Train;Worker;Down;2;S;C;MoveToUnit;Enemy;Strongest

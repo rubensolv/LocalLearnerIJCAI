@@ -1,0 +1,1 @@
+S;S_S;S;For_S;S;C;Train;Worker;EnemyDir;25;S;For_S;S;S_S;S;S_S;S;C;Train;Heavy;Down;1;S;S_S;S;C;Idle;S;For_S;S;C;Idle;S;S_S;S;C;Attack;LessHealthy;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;7;S;C;Build;Barracks;EnemyDir;3;S;S_S;S;S_S;S;C;Harvest;10;S;For_S;S;C;Harvest;3;S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;7;S;Empty;S;For_S;S;C;Train;Light;Right;4

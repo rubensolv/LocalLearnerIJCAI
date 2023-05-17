@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;1;S;C;Train;Worker;Down;4;S;S_S;S;C;MoveToUnit;Enemy;Closest;S;C;Train;Worker;Up;25;S;For_S;S;C;Idle

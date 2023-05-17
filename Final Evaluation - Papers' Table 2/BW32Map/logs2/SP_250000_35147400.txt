@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;S_S;S;C;Idle;S;C;Train;Heavy;EnemyDir;15;S;C;Build;Barracks;Down;1;S;C;Attack;Strongest;S;S_S;S;C;MoveToUnit;Enemy;Strongest;S;C;MoveToUnit;Enemy;Farthest

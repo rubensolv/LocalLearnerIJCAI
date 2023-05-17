@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;C;Attack;MostHealthy;S;C;Train;Light;EnemyDir;8;S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Build;Barracks;EnemyDir;10;S;For_S;S;C;Harvest;5

@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;C;Train;Heavy;Right;10;S;S_S;S;S_S;S;For_S;S;C;Idle;S;C;Train;Worker;EnemyDir;100;S;For_S;S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;3;S;For_S;S;C;Build;Barracks;Up;2;S;S_S;S;C;Harvest;4;S;C;Attack;LessHealthy

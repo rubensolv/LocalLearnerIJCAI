@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;5;S;S_S;S;C;Harvest;10;S;S_S;S;S_S;S;S_S;S;C;Train;Worker;Right;4;S;C;Idle;S;C;Attack;LessHealthy;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;C;MoveToUnit;Enemy;Strongest;S;C;MoveToUnit;Ally;MostHealthy;S;C;MoveToUnit;Enemy;Farthest;S;For_S;S;C;Train;Heavy;Left;20

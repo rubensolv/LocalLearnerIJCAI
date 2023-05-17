@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;C;Idle;S;S_S;S;S_S;S;C;Train;Ranged;Right;1;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;C;Harvest;2;S;C;Train;Ranged;Down;9;S;C;Harvest;3;S;S_S;S;C;Attack;Strongest;S;For_S;S;C;Train;Worker;Right;15

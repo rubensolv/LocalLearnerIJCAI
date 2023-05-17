@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;For_S;S;C;Train;Worker;EnemyDir;25;S;S_S;S;C;Idle;S;C;Harvest;6;S;If_B_then_S;B;CanAttack;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;For_S;S;C;MoveToUnit;Enemy;LessHealthy

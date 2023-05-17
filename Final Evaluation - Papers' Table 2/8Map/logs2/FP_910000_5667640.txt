@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Ally;Strongest;S;C;MoveToUnit;Enemy;LessHealthy;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;10;S;S_S;S;If_B_then_S;B;CanAttack;S;S_S;S;C;MoveToUnit;Ally;LessHealthy;S;For_S;S;C;Attack;LessHealthy;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Worker;EnemyDir;9
