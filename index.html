@@ -28,8 +28,8 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#algorithm">Algorithm</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dsl">Domain-Specific Language (DSL)</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">MicroRTS Maps</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                 </ul>
             </div>
@@ -120,10 +120,10 @@
             </section>
             <hr class="m-0" />
             <!-- Skills-->
-            <section class="resume-section" id="skills">
+            <section class="resume-section" id="dsl">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <h2 class="mb-5">DSL's used in our experiments.</h2>
+                    <!-- <div class="subheading mb-3">Programming Languages & Tools</div>
                     <ul class="list-inline dev-icons">
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
@@ -137,34 +137,68 @@
                         <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
                         <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-npm"></i></li>
-                    </ul>
-                    <div class="subheading mb-3">Workflow</div>
+                    </ul> -->
+                    <div class="subheading mb-3">Climbing Monkey </div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cross Functional Teams
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Agile Development & Scrum
-                        </li>
+                            We used the following DSL for Climbing Monkey (CM) in our experiments. The terminal λ is an empty string. 
+                        </li>                        
                     </ul>
+                    <img class="img-fluid" src="assets/img/dslMonkey.png" alt =""/>
+                    <div class="subheading mb-3">Poacher & Rangers</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            We used the following DSLs for Rangers and Poachers, where the terminal λ indicates an empty string.
+                        </li>                        
+                    </ul>
+                    <img class="img-fluid" src="assets/img/dslPER.png" alt =""/>
+                    <div class="subheading mb-3">MicroRTS</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            The DSL we use for MicroRTS was introduced by [Marino et al., 2021] and expanded by [Medeiros et al., 2022]. This
+                            DSL accepts nested if structures and nested for loops. The DSL is described with the following context-free grammar.
+                        </li>                        
+                    </ul>
+                    <img class="img-fluid" src="assets/img/dslmicro1.png" alt =""/>
+                    <img class="img-fluid" src="assets/img/dslmicro2.png" alt =""/>
+                    <img class="img-fluid" src="assets/img/dslmicro3.png" alt =""/>
+                    <img class="img-fluid" src="assets/img/dslmicro4.png" alt =""/>
+                    <img class="img-fluid" src="assets/img/dslmicro5.png" alt =""/>
                 </div>
             </section>
             <hr class="m-0" />
             <!-- Interests-->
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
+                    <h2 class="mb-5">MicroRTS Maps</h2>
+                    <p>The seven maps used in the MicroRTS experiments are presented here. From left to right and top to bottom we have the following maps:</p>                    
+                    <div class="row">
+                      <div class="column">
+                        <img src="assets/img/map8x8.png" alt="Map 8x8" style="width:100%">
+                      </div>
+                      <div class="column">
+                        <img src="assets/img/map16x16.png" alt="Map 16x16" style="width:100%">
+                      </div>
+                      <div class="column">
+                        <img src="assets/img/map24.png" alt="Map 24x24A" style="width:100%">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="column">
+                        <img src="assets/img/mapDoubleGame.png" alt="Map 24x24 Double Map" style="width:100%">
+                      </div>
+                      <div class="column">
+                        <img src="assets/img/map32.png" alt="Map 32x32A" style="width:100%">
+                      </div>
+                      <div class="column">
+                        <img src="assets/img/mapBWD32.png" alt="Map 32x32 BWDistance" style="width:100%">
+                      </div>
+                    </div>
+                    <img class="img-fluid" src="assets/img/mapChambers32.png" alt ="Chambers 32" width="200" height="200" />
+
                     <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
                 </div>
             </section>
@@ -220,5 +254,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+
     </body>
 </html>
