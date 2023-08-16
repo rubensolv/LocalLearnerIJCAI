@@ -44,6 +44,9 @@
                         <span class="text-primary">How to Guide the Synthesis of Programmatic Strategies</span>
                     </h1>
                     <div class="subheading mb-5">
+                        Rubens O. Moraes, David S. Aleixo, Lucas N. Ferreira, and Levi H. S. Lelis
+                    </div>
+                    <div class="subheading mb-5">
                         Author for contact: Rubens O. Moraes
                         <a href="mailto:rubensolv@gmail.com">rubensolv@gmail.com</a>
                     </div>
@@ -60,6 +63,18 @@
             <section class="resume-section" id="algorithm">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Local Learner</h2>
+                    <p class="lead mb-5">We introduce Local Learner (2L), an algorithm that provides a set of reference strategies to guide the search for programmatic strategies in two-player zero-sum games.
+                    Local Learner (2L) is a learning algorithm based on the PSRO framework that provides a set of reference strategies to guide the search for programmatic strategies in two-player zero-sum games. It actively selects a set of reference strategies to improve the search signal and defines meta-strategies that are "in between" those IBR and FP define in terms of the number of strategies in the meta-strategy's support. 2L can use more strategies than IBR to provide a better signal to the search algorithm, but it also attempts to use fewer strategies than FP to reduce the computational cost of the evaluation. </p>
+
+                    <p class="lead mb-5">Iterated Best Response (IBR), Fictitious Play (FP), Double-Oracle (DO), and Local Learner (2L) are all learning algorithms that can be used to guide the search for programmatic strategies in two-player zero-sum games. </p>
+
+                    <p class="lead mb-5">IBR is a simple algorithm that iteratively selects the best response to the opponent's strategy and updates its own strategy accordingly. </p>
+
+                    <p class="lead mb-5">FP is a more complex algorithm that maintains a probability distribution over the opponent's strategies and updates its own strategy based on the expected payoff of each strategy. </p>
+
+                    <p class="lead mb-5">DO is a more sophisticated algorithm that uses linear programming to compute the best response to the opponent's strategy and updates its own strategy accordingly. </p>
+
+                    <p class="lead mb-5">2L is a learning algorithm based on the PSRO framework that actively selects a set of reference strategies to improve the search signal and defines meta-strategies that are "in between" those IBR and FP define in terms of the number of strategies in the meta-strategy's support. 2L can use more strategies than IBR to provide a better signal to the search algorithm, but it also attempts to use fewer strategies than FP to reduce the computational cost of the evaluation.</p>
                     <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Senior Web Developer</h3>
@@ -99,6 +114,9 @@
             <section class="resume-section" id="examples">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Examples</h2>
+                    <p class="lead mb-5">For detailed examples, please, take a look on the following presentation. </p>
+                    <a href="https://recorder-v3.slideslive.com/?share=84856&s=9c6c0a3a-4578-4f6a-b86f-987f9979c856">Video for examples and details.</a>
+                    
                     <!-- <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">University of Colorado Boulder</h3>
@@ -207,7 +225,7 @@
             <section class="resume-section" id="detailed">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Detailed Tournament Evaluation</h2>
-
+                    <p class="mb-0">In the MicroRTS tournament, the synthesizer using 2L outperformed programmatic strategies written by human programmers by obtaining the highest average winning rate. The tournament included strategies synthesized with 2L, IBR, FP, DO, as well as the programmatic strategies that won the last two MicroRTS competitions, which were written by programmers. The results showed that 2L synthesized strategies that were never worse and often far superior to strategies synthesized with IBR, FP, and DO in all three domains.</p>
                 </div>
             </section>
         </div>
